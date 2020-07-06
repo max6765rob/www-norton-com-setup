@@ -1,0 +1,648 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1a2027;
+    padding: 5px;
+    color: white;
+    z-index: 1000;
+    text-align: center;
+ }
+ .nav-btn
+ {
+    padding: 0px 6px;
+ }
+ .nav>li>a
+ {
+     color: #fff;
+     font-family: 'Roboto', sans-serif;
+     text-transform: uppercase;
+     line-height: 19px;
+     font-size: 14px;
+     }
+ .nav>li>a:focus, .nav>li>a:hover
+ {
+    background-color:transparent;
+    color: #fff;
+ }
+ .navbar-nav
+ {
+    margin-left: 30%;
+ }
+ .cont-text
+ {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 38px;
+    text-transform: capitalize;
+ }
+ .number-hp
+ {
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+ }
+ .footer>p{
+     margin-bottom: 0px;
+ }
+.navbar-color
+{
+	background-color:#242e39 !important;
+}
+.logo-nort
+{
+	width: 100%;
+    margin-left: 121%;
+    margin-top: -9px;
+}
+.slider-img
+{
+	margin-top: -25px;
+    position: absolute;
+    top: -274px;
+    width: 100%;
+}
+.slider-height{
+
+height:200px;
+}
+.body-form{
+		background-color:#fff !important;
+		z-index:7;
+		height:439px;
+		margin-top: -18px;
+}
+.heading{
+	font-size:25px;
+	color:#464646;
+    padding-left: 125px;
+    padding-top: 12px;
+
+}
+.para-home{
+	color: #959595;
+    font-size: 17px;
+    line-height: 1.4;
+    margin-top: 16px;
+    width: 53%;
+    margin-left: 43%;
+    text-align: left;
+}
+.form-header{
+	border-top: 2px solid #fdbb30;
+	box-shadow: 0px 0px 21px 4px #cccccc;
+    padding: 10px 20px;
+	position: relative;
+    top: -88px;
+    background: #fff;
+}
+.submit-btn{
+	background: #ffe283 !important;
+	border: 0px !important;
+    border-radius: 0px;
+    height: 43px !important;
+	/* margin-left: 63%; */
+    margin-top: 14px;
+    margin-bottom: 23px;
+    border-radius: 0px !important;
+	font-size: 17px !important;
+	
+}
+.product-heading{
+   font-size: 27px;
+   margin-top: 17px !important;
+}
+.product-heading1{
+   font-size: 18px;
+   margin-top: 17px !important;
+}
+.input-cls{
+	height: 37px !important;
+    border-radius: 0px !important;
+    border: 1px solid #8c8c8c !important;
+	background-color: #F8F8F8 !important;
+}
+footer div{
+		background-color:#242e39 !important;
+		/* position:fixed !important; */
+		/* bottom:0px !important; */
+		/* height: 77px; */
+}
+.footer-img img{
+	margin-top: 28px;
+    margin-left: 27px;
+}
+.copyright-mark{
+	color: #fff;
+    margin-left: 10%;
+    margin-top: -32px;
+    font-size: 12px;
+}
+.copyright-terms{
+	color: #fff;
+    margin-left: 25%;
+    font-size: 12px;
+    margin-top: -22px;
+}
+.copyright-privacy{
+	color: #fff;
+    margin-left: 32%;
+    font-size: 12px;
+    margin-top: -22px;
+}
+
+.nor-nav-back
+{
+    box-shadow: 1px 2px 16px -7px #8d8f92;
+    background: #29333e;
+}
+.lo-er-go
+{
+    width: 13%;
+    padding: 10px;
+}
+.in-head
+{
+    margin-top: 2%;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+}
+.nd-para-2{
+    font-size:22px;
+    font-weight: 600;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+}
+.nd-para-3{
+    font-size:22px;
+    font-weight: 600;
+    margin-top: 2%;
+    color: #9E3B1B;
+    font-family: 'Lato', sans-serif;
+}
+.nd-para-4{
+    font-size:25px;
+    font-weight: 600;
+    /* margin-top: 5%; */
+    color: #000;
+    font-family: 'Lato', sans-serif;
+    padding: 0px 80px;
+}
+.nd-para-5{
+    font-size:35px;
+    font-weight: 700;
+    /* margin-top: 5%; */
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    padding: 0px 80px;
+}
+.in-head span
+{
+    color: #c01818;
+    font-weight: 900;
+}
+.er-box
+{
+    /* border: 1px solid #662d91; */
+    box-shadow: 2px 10px 19px -4px #8d8f92;
+    border-radius: 5px;
+    height: 236px;
+}
+.er-box h1
+{
+    color:#fdbb30;
+    font-size: 50px;
+}
+.er-box p
+{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    margin-top: 12%;
+    margin-bottom: 12%;
+}
+.er-box a{
+    background-color: #fdbb30;
+    padding: 10px 65px;
+    border-radius: 10px;
+    color: #000000;
+    font-weight: 600;
+
+}
+.caht-b-gr
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.foo-copy
+{
+    padding-top: 41%;
+    font-size: 12px;
+    color: #808080;
+}
+.fo-list ul li
+{
+    display: inline;
+    font-size: 10px;
+}
+.fo-list
+{
+    margin-left: -5%;
+}
+.co-fo-im
+{
+    width: 10%;
+}
+.copyright-foo ul li
+{
+    display: inline;
+    font-size: 10px;
+}
+.copyright-foo
+{
+    margin-left: -5%;
+}
+/* =============================== home page  css  starts here=========================================== */
+.home-slider{
+    /* height: 607px; */
+    margin-top: -25px;
+    overflow: hidden;
+    width: 100%;
+    /* height: 500px; */
+}
+.slider-home
+{
+    width: 100%;
+    position: fixed
+    /* top: -142px; */
+}
+.slider-cnt-position
+{
+    position: absolute;
+    top: 29%;
+    margin-left: 11%;
+    color: #fff;
+    font-size: 4.8rem;
+    font-weight: 300;
+    line-height: 1.25;
+    text-shadow: 0 2px 10px rgba(0,0,0,.4);
+}
+.slider-cnt-position1
+{
+    position: absolute;
+    top: 39%;
+    margin-left: 11%;
+    font-size: 2.4rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #fff;
+    text-shadow: 0 2px 10px rgba(0,0,0,.4);
+}
+.slider-cnt-position2
+{
+    position: absolute;
+    top:49%;
+    margin-left: 11%;
+    padding: 12px 44px;
+    color: #585858;
+    font-size: 1.8rem;
+    background: #fcc34f;
+}
+.slider-cnt-position2:hover
+{
+    text-decoration: none;
+    background: #fdd572;
+}
+.slider-cnt-position3
+{
+    position: absolute;
+    top:49%;
+    margin-left: 25%;
+    padding: 12px 44px;
+    color: #585858;
+    font-size: 1.8rem;
+    background: #fff;
+}
+.slider-cnt-position3:hover
+{
+    text-decoration: none;
+    background: #fdd572;
+}
+.nor-for-af
+{
+    padding: 10px 22px;
+    width: 58%;
+}
+
+
+/*  email form  */
+
+.emai-log
+{
+    width: 9%;
+    margin-left: 2%;
+    padding: 10px 0px;
+}
+.email-nav
+{
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,.15);
+    background: #1a2027;
+}
+.emai-heading
+{
+    margin-top: 3%;
+    font-family: 'Lato', sans-serif;
+    color: #e6b800;
+    font-weight: 400;
+}
+.email-inpt-back1
+{
+    width: 100%;
+    background-color: #eee!important;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3%;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: #000000;
+}
+.email-span
+{
+    color: #e40202;
+}
+.contact-span
+{
+    color: #e40202;
+}
+.email-inpt-back
+{
+    width: 100%;
+    background-color: #eee!important;
+    height: 37px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3%;
+    font-size: 12px;
+    padding-left: 15px;
+    color: #808080;
+    font-weight: 400;
+}
+.email-inpt-back2
+{
+    width: 100%;
+    background-color: #e6b800!important;
+    height: 37px;
+    border: none;
+    color: #000000;
+    border-radius: 5px;
+    margin-top: 5%;
+    font-size: 16px;
+    padding-left: 15px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+}
+.plac-tet-email1
+{
+    margin-top: 20px;
+    margin-bottom: -15px;
+    font-size: 12px;
+    color: #808080;
+    padding-left: 10px;
+    
+}
+.plac-tet-email
+{
+    margin-bottom: -15px;
+    font-size: 12px;
+    color: #808080;
+    padding-left: 10px;
+}
+
+@media only screen and (max-width: 768px)
+{
+    .emai-log {
+        width: 16%;
+    }
+}
+/*  //email form  */
+.modal-content
+{
+    width:40%;
+}
+#myModal
+{
+    margin-top: 24%;
+    margin-left: 26%;
+}
+#myModal1
+{
+    margin-top: 24%;
+    margin-left: 59%;
+}
+.modal-submit
+{
+    margin-top:8%;
+    width: 100%;
+    height: 35px;
+    background-color: #fdbb30;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+.modal-input
+{
+    height: 35px;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    background-color: #eee!important;
+    padding-left: 10px;
+}
+@media only screen and (max-width: 1200px)
+{
+    .nor-for-af
+    {
+        padding: 10px 22px;
+        width: 78%;
+    }
+    .submit-btn
+    {
+        margin-left: 2%;
+    }
+}
+
+.foot-li ul li
+{ 
+    display: inline;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 12px;
+}
+.foot-li
+{
+    padding-top: 27px;
+    padding-bottom: 15px;
+}
+@media only screen and (max-width: 1024px)
+{
+    .para-home
+    {
+        width: 94%;
+        margin-left: 2%;
+    }
+    .heading
+    {
+        padding-left: 0px; 
+        padding-top: 0px;
+    }
+    .nor-for-af
+    {
+        width: 100%;
+    }
+    .body-form
+    {
+        height: 353px;
+    }
+   .respon-foot
+   {
+    height: 100%;
+   }
+   /* .home-slider{
+    height: 607px;
+    margin-top: -25px;
+    overflow: hidden;
+    width: 100%;
+    height: 531px;
+} */
+.slider-home
+{
+    top: -38px;
+}
+}
+@media only screen and (max-width: 768px)
+{
+    .slider-img
+    {
+        top: -130px;
+    }
+    .form-header
+    {
+        top: -225px;
+    }
+    .body-form
+    {
+        height: 353px;
+    }
+    .respon-foot
+    {
+     height: 90%;
+    }
+    .er-box
+    {
+        width: 50%;
+        margin-left: 25%;
+    }
+    .foo-copy
+    {
+        padding-top: 11%;
+        font-size: 11px;
+    }
+    .lo-er-go
+    {
+        width: 21%;
+    }
+    .in-head
+    {
+        margin-top: 4%;
+    }
+    .nd-para-4
+    {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 508px)
+{
+    .form-header
+    {
+        top: -259px;
+    }
+    .slider-img
+    {
+        top: -85px;
+    }
+    .body-form
+    {
+        height: 353px;
+    }
+    .respon-foot
+    {
+     height: 85%;
+    }
+    .er-box
+    {
+        width: 70%;
+        margin-left: 17%;
+    }
+    .nd-para-4
+    {
+        font-size: 16px;
+        padding: 0px 9px;
+    }
+    .in-head
+    {
+        font-size: 28px;
+    }
+    .nd-para-2 {
+        font-size: 20px;
+    }
+    .nd-para-5 {
+        font-size: 23px;
+    }
+    .lo-er-go {
+        width: 29%;
+    }
+}
+@media only screen and (max-width: 388px)
+{
+    .form-header
+    {
+        top: -329px;
+    }
+    .slider-img
+    {
+        top: -21px;
+    }
+    .respon-foot
+    {
+     height: 80%;
+    }
+    .er-box
+    {
+        width: 70%;
+        margin-left: 17%;
+    }
+    .nd-para-5 {
+        font-size: 16px;
+    }
+    .in-head {
+        font-size: 22px;
+    }
+    .nd-para-2 {
+        font-size: 16px;
+    }
+    .nd-para-3 {
+        font-size: 17px;
+    }
+    .nd-para-4 {
+        font-size: 14px;
+    }
+    .er-box {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .lo-er-go {
+        width: 41%;
+    }
+}
